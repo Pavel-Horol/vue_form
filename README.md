@@ -1,0 +1,1 @@
+# Check the pages/index.ts
